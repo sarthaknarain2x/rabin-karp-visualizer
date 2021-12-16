@@ -5,7 +5,7 @@ Ethernet connection (LAN) OR a wireless adapter (Wi-Fi)
 Hard Drive: Minimum 32 GB; Recommended 64 GB or more
 Memory (RAM): Minimum 1 GB; Recommended 4 GB or above
 Software Requirements:
-Languages used: React, HTML, CSS, 
+Languages used: React, HTML, CSS, Javascript
 Created with CodeSandbox
 # How to place code files in the directory/location?
 Under the public tab we have the index.html file.
