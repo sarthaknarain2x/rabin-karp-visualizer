@@ -25,7 +25,7 @@ Your algorithm is now ready to go. Keep clicking on the next button, till the la
 <br>
 If the pattern matches with the text, those characters turn green in color and will display the output, "Pattern found at 'index'". That's it, the visual representation of Rabin-Karp Algoritm.
 <br>
-![image](https://user-images.githubusercontent.com/80668473/146396071-d85d67f6-eb97-4481-9955-010cf5deb4c1.png)
+![image](https://user-images.githubusercontent.com/80668473/146397820-735db6e9-b029-4116-84dd-2bfc0ffb6394.png)
 # Snapshots
 ![image](https://user-images.githubusercontent.com/80668473/146390824-a1e0f819-9d5f-4683-a7c8-e6461508e945.png)
 <br><br>
