@@ -1,4 +1,4 @@
-# rabin karp visualizer
+# Rabin Karp Visualizer
 # check it out!
 https://83913.csb.app/
 # Hardware and software requirements:
